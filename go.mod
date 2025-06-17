@@ -1,4 +1,4 @@
-module github.com/stonal-tech/lib-client-document-storage-go
+module github.com/fclairamb/lib-client-document-storage-go
 
 go 1.24.4
 
